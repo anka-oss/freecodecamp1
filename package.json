@@ -13,5 +13,6 @@
 	},
 	"author": "Anna Ossowska",
 	"description": "Project for learning purposes",
-	"keywords": ["freecodecamp", "backend", "leaarning"]
+	"keywords": ["freecodecamp", "backend", "leaarning"],
+	"license": "MIT"
 }
