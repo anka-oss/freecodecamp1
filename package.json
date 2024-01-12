@@ -12,5 +12,6 @@
 		"url": "https://github.com/anka-oss/freecodecamp1.git"
 	},
 	"author": "Anna Ossowska",
-	"description": "Project for learning purposes"
+	"description": "Project for learning purposes",
+	"keywords": ["freecodecamp", "backend", "leaarning"]
 }
